@@ -1,7 +1,7 @@
 ## Hi, I'm Cristian Araujo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-- 🔭 I'm currently working as Senior Software Engineer [@ZupIT](https://github.com/ZupIT)
-- 👨‍🏫 I'm teacher on [Let's Code](https://letscode.com.br/)
+- 🔭 I'm currently working as Senior Software Engineer at [@ZupIT](https://github.com/ZupIT)
+- 👨‍🏫 I'm teacher at [Let's Code](https://letscode.com.br/)
 - 🌱 I'm learning about Project Management, Web Architecture and DevOps
 - 😄 Pronouns: Him/His
 - 🧳 And I'm organizing my trip through Brazil.
