@@ -1,10 +1,26 @@
 ## Hi, I'm Cristian Araujo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<div align="left">
+  <a href="https://api.daily.dev/get?r=araujocristian" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/araujocristian/araujocristian/blob/master/devcard.svg"
+      alt="Cristian Araujo's Dev Card"
+    />
+  </a>
+</div>
+
+<br />
+<br />
+<br />
+ 
 - 🔭 I'm currently working as Senior Software Engineer at [@ZupIT](https://github.com/ZupIT)
 - 👨‍🏫 I'm teacher at [Let's Code](https://letscode.com.br/)
 - 🌱 I'm learning about Project Management, Web Architecture and DevOps
 - 😄 Pronouns: Him/His
 - 🧳 And I'm organizing my trip through Brazil.
+
 
 **Languages and Tools 🚀**
 
@@ -24,6 +40,12 @@
 <a target="_blank" rel="noopener noreferrer" href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a target="_blank" rel="noopener noreferrer" href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <table align="center">
   <row>
