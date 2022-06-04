@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://api.daily.dev/get?r=araujocristian" target="_blank">
     <img
-      width="256"
+      width="5"
       align="right"
       src="https://github.com/araujocristian/araujocristian/blob/master/devcard.svg"
       alt="Cristian Araujo's Dev Card"
