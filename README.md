@@ -16,7 +16,6 @@
 <br />
  
 - 🔭 I'm currently working as Tech Lead at [@ZupIT](https://github.com/ZupIT)
-- 👨‍🏫 I'm teacher at [Let's Code](https://letscode.com.br/)
 - 🌱 I'm learning about Project Management, Web Architecture and DevOps
 - 😄 Pronouns: Him/His
 - 🧳 And I'm organizing my trip through South America.
