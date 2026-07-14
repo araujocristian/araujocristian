@@ -60,5 +60,5 @@
 
 --------------
 [![Cristian's GitHub Followers](https://img.shields.io/github/followers/araujocristian?style=flat-square&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/araujocristian)
-[![Cristian's Portfolio Badge](https://img.shields.io/badge/Website-araujocristian.netlify.app-informational?style=flat-square&logo=wolfram&labelColor=0D0D0D&Color=white)](https://araujocristian.netlify.app/)
+[![Cristian's Portfolio Badge](https://img.shields.io/badge/Website-araujocristian.github.io-informational?style=flat-square&logo=wolfram&labelColor=0D0D0D&Color=white)](https://araujocristian.github.io/)
 [![Cristian's Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/araujocristian/)](https://www.linkedin.com/in/araujocristian/) 
