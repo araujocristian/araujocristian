@@ -15,10 +15,10 @@
 <br />
 <br />
  
-- 🔭 I'm currently working as Senior Software Engineer at [@unico IDTech](https://github.com/acesso-io)
-- 🌱 I'm learning about Project Management, Web Architecture and DevOps
+- 🔭 I'm currently working as a Software Engineer Specialist at [@unico IDTech](https://github.com/acesso-io)
+- 🌱 I'm learning about Project Management, Web Architecture, and AI Engineering at [@full Cycle]() 
 - 😄 Pronouns: Him/His
-- 🧳 And I'm organizing my trip through South America.
+- 🧳 And I'm organizing my trip through México.
 
 
 **Languages and Tools 🚀**
